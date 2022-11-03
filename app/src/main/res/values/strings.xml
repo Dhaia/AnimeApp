@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AnimeApp</string>
+    <string name="ani_top_app_bar_title">Ani</string>
+    <string name="list_top_app_bar_title">list</string>
+    <string name="search">search</string>
+    <string name="fate_stay_night">Fate/Stay night</string>
+    <string name="tv_show_13_episodes">Tv show - 13 episodes</string>
+    <string name="score">Score</string>
+    <string name="upcoming">UPCOMING</string>
+    <string name="anime">ANIME</string>
+    <string name="see_more">see more</string>
+    <string name="tv_show_airing_in_21_days">Tv show - Airing in 21 days</string>
+    <string name="demon_slayer">Demon Slayer</string>
+</resources>
